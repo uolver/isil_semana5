@@ -1,0 +1,10 @@
+@font-face {
+    font-family: titan;
+    src: url(../fuentes/titan_one.ttf);
+}
+
+#titulo_portada{
+    font-family: titan;
+    font-size: 50px;
+    text-align: center;
+}
